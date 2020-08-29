@@ -1,0 +1,4 @@
+name: FitzDesktop
+version: ${project.version}
+main: fitzcraft.fitzdesktop.FitzDesktop
+api-version: 1.16
